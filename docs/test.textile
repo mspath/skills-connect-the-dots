@@ -5,3 +5,7 @@ still the king of the markup languages..
 just a test for a "link":https://hackr.de
 
 over and out
+
+!https://hackr.de/img/2024/01/leapday-doodle-2024.png (happy leap day)!
+
+^ devoha der leap day doodle.
